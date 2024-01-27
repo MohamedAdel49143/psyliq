@@ -1,0 +1,2 @@
+# psyliq
+Data-Analyst-Internship
